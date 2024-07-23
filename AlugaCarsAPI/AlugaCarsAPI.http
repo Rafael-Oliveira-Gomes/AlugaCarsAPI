@@ -1,0 +1,6 @@
+@AlugaCarsAPI_HostAddress = http://localhost:5212
+
+GET {{AlugaCarsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

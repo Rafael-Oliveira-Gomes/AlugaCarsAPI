@@ -1,0 +1,11 @@
+C:\Code\LocalizaAPI\AlugaCars.Application\bin\Debug\net8.0\AlugaCars.Application.deps.json
+C:\Code\LocalizaAPI\AlugaCars.Application\bin\Debug\net8.0\AlugaCars.Application.dll
+C:\Code\LocalizaAPI\AlugaCars.Application\bin\Debug\net8.0\AlugaCars.Application.pdb
+C:\Code\LocalizaAPI\AlugaCars.Application\obj\Debug\net8.0\AlugaCars.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\LocalizaAPI\AlugaCars.Application\obj\Debug\net8.0\AlugaCars.Application.AssemblyInfoInputs.cache
+C:\Code\LocalizaAPI\AlugaCars.Application\obj\Debug\net8.0\AlugaCars.Application.AssemblyInfo.cs
+C:\Code\LocalizaAPI\AlugaCars.Application\obj\Debug\net8.0\AlugaCars.Application.csproj.CoreCompileInputs.cache
+C:\Code\LocalizaAPI\AlugaCars.Application\obj\Debug\net8.0\AlugaCars.Application.dll
+C:\Code\LocalizaAPI\AlugaCars.Application\obj\Debug\net8.0\refint\AlugaCars.Application.dll
+C:\Code\LocalizaAPI\AlugaCars.Application\obj\Debug\net8.0\AlugaCars.Application.pdb
+C:\Code\LocalizaAPI\AlugaCars.Application\obj\Debug\net8.0\ref\AlugaCars.Application.dll

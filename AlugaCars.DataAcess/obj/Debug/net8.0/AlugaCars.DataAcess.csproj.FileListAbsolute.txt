@@ -1,0 +1,17 @@
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\bin\Debug\net8.0\AlugaCars.DataAcess.deps.json
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\bin\Debug\net8.0\AlugaCars.DataAcess.dll
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\bin\Debug\net8.0\AlugaCars.DataAcess.pdb
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\bin\Debug\net8.0\AlugaCars.Core.dll
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\bin\Debug\net8.0\AlugaCars.Core.pdb
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\obj\Debug\net8.0\AlugaCars.DataAcess.csproj.AssemblyReference.cache
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\obj\Debug\net8.0\AlugaCars.DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\obj\Debug\net8.0\AlugaCars.DataAcess.AssemblyInfoInputs.cache
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\obj\Debug\net8.0\AlugaCars.DataAcess.AssemblyInfo.cs
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\obj\Debug\net8.0\AlugaCars.DataAcess.csproj.CoreCompileInputs.cache
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\obj\Debug\net8.0\AlugaCar.11C3AF0F.Up2Date
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\obj\Debug\net8.0\AlugaCars.DataAcess.dll
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\obj\Debug\net8.0\refint\AlugaCars.DataAcess.dll
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\obj\Debug\net8.0\AlugaCars.DataAcess.pdb
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\obj\Debug\net8.0\ref\AlugaCars.DataAcess.dll
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\bin\Debug\net8.0\AlugaCars.DataAcess.runtimeconfig.json
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\obj\Debug\net8.0\AlugaCars.DataAcess.genruntimeconfig.cache
