@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AlugaCars.Core\AlugaCars.Core.csproj" />
+    <ProjectReference Include="..\AlugaCars.DataAcess\AlugaCars.DataAcess.csproj" />
+  </ItemGroup>
+
 </Project>

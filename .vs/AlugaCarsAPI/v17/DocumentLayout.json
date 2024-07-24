@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Code\\LocalizaAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B1C3109-E3B4-47A9-A614-559E3F805C87}|AlugaCars.DataAcess\\AlugaCars.DataAcess.csproj|c:\\code\\localizaapi\\alugacars.dataacess\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B1C3109-E3B4-47A9-A614-559E3F805C87}|AlugaCars.DataAcess\\AlugaCars.DataAcess.csproj|solutionrelative:alugacars.dataacess\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B29F4EA-5FD0-42FA-ACA0-A59BF550A8A9}|AlugaCars.Application\\AlugaCars.Application.csproj|c:\\code\\localizaapi\\alugacars.application\\service\\carroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B29F4EA-5FD0-42FA-ACA0-A59BF550A8A9}|AlugaCars.Application\\AlugaCars.Application.csproj|solutionrelative:alugacars.application\\service\\carroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B1C3109-E3B4-47A9-A614-559E3F805C87}|AlugaCars.DataAcess\\AlugaCars.DataAcess.csproj|c:\\code\\localizaapi\\alugacars.dataacess\\repositories\\pagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B1C3109-E3B4-47A9-A614-559E3F805C87}|AlugaCars.DataAcess\\AlugaCars.DataAcess.csproj|solutionrelative:alugacars.dataacess\\repositories\\pagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B1C3109-E3B4-47A9-A614-559E3F805C87}|AlugaCars.DataAcess\\AlugaCars.DataAcess.csproj|c:\\code\\localizaapi\\alugacars.dataacess\\repositories\\reservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B1C3109-E3B4-47A9-A614-559E3F805C87}|AlugaCars.DataAcess\\AlugaCars.DataAcess.csproj|solutionrelative:alugacars.dataacess\\repositories\\reservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B1C3109-E3B4-47A9-A614-559E3F805C87}|AlugaCars.DataAcess\\AlugaCars.DataAcess.csproj|c:\\code\\localizaapi\\alugacars.dataacess\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B1C3109-E3B4-47A9-A614-559E3F805C87}|AlugaCars.DataAcess\\AlugaCars.DataAcess.csproj|solutionrelative:alugacars.dataacess\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B1C3109-E3B4-47A9-A614-559E3F805C87}|AlugaCars.DataAcess\\AlugaCars.DataAcess.csproj|c:\\code\\localizaapi\\alugacars.dataacess\\interface\\icarrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B1C3109-E3B4-47A9-A614-559E3F805C87}|AlugaCars.DataAcess\\AlugaCars.DataAcess.csproj|solutionrelative:alugacars.dataacess\\interface\\icarrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B1C3109-E3B4-47A9-A614-559E3F805C87}|AlugaCars.DataAcess\\AlugaCars.DataAcess.csproj|c:\\code\\localizaapi\\alugacars.dataacess\\repositories\\carrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B1C3109-E3B4-47A9-A614-559E3F805C87}|AlugaCars.DataAcess\\AlugaCars.DataAcess.csproj|solutionrelative:alugacars.dataacess\\repositories\\carrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13CB7E0B-4A83-40D7-94AD-A4510A157B73}|AlugaCars.Core\\AlugaCars.Core.csproj|c:\\code\\localizaapi\\alugacars.core\\entities\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CB7E0B-4A83-40D7-94AD-A4510A157B73}|AlugaCars.Core\\AlugaCars.Core.csproj|solutionrelative:alugacars.core\\entities\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,73 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Code\\LocalizaAPI\\AlugaCars.DataAcess\\Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "AlugaCars.DataAcess\\Repositories\\BaseRepository.cs",
-              "ToolTip": "C:\\Code\\LocalizaAPI\\AlugaCars.DataAcess\\Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "AlugaCars.DataAcess\\Repositories\\BaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T21:32:26.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PagamentoRepository.cs",
-              "DocumentMoniker": "C:\\Code\\LocalizaAPI\\AlugaCars.DataAcess\\Repositories\\PagamentoRepository.cs",
-              "RelativeDocumentMoniker": "AlugaCars.DataAcess\\Repositories\\PagamentoRepository.cs",
-              "ToolTip": "C:\\Code\\LocalizaAPI\\AlugaCars.DataAcess\\Repositories\\PagamentoRepository.cs",
-              "RelativeToolTip": "AlugaCars.DataAcess\\Repositories\\PagamentoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T21:31:01.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReservaRepository.cs",
-              "DocumentMoniker": "C:\\Code\\LocalizaAPI\\AlugaCars.DataAcess\\Repositories\\ReservaRepository.cs",
-              "RelativeDocumentMoniker": "AlugaCars.DataAcess\\Repositories\\ReservaRepository.cs",
-              "ToolTip": "C:\\Code\\LocalizaAPI\\AlugaCars.DataAcess\\Repositories\\ReservaRepository.cs",
-              "RelativeToolTip": "AlugaCars.DataAcess\\Repositories\\ReservaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T21:30:12.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Code\\LocalizaAPI\\AlugaCars.DataAcess\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "AlugaCars.DataAcess\\Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Code\\LocalizaAPI\\AlugaCars.DataAcess\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "AlugaCars.DataAcess\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T21:28:04.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICarroRepository.cs",
-              "DocumentMoniker": "C:\\Code\\LocalizaAPI\\AlugaCars.DataAcess\\Interface\\ICarroRepository.cs",
-              "RelativeDocumentMoniker": "AlugaCars.DataAcess\\Interface\\ICarroRepository.cs",
-              "ToolTip": "C:\\Code\\LocalizaAPI\\AlugaCars.DataAcess\\Interface\\ICarroRepository.cs",
-              "RelativeToolTip": "AlugaCars.DataAcess\\Interface\\ICarroRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T21:18:12.12Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -111,15 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CarroRepository.cs",
-              "DocumentMoniker": "C:\\Code\\LocalizaAPI\\AlugaCars.DataAcess\\Repositories\\CarroRepository.cs",
-              "RelativeDocumentMoniker": "AlugaCars.DataAcess\\Repositories\\CarroRepository.cs",
-              "ToolTip": "C:\\Code\\LocalizaAPI\\AlugaCars.DataAcess\\Repositories\\CarroRepository.cs",
-              "RelativeToolTip": "AlugaCars.DataAcess\\Repositories\\CarroRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Code\\LocalizaAPI\\AlugaCars.Core\\Entities\\Carro.cs",
+              "RelativeDocumentMoniker": "AlugaCars.Core\\Entities\\Carro.cs",
+              "ToolTip": "C:\\Code\\LocalizaAPI\\AlugaCars.Core\\Entities\\Carro.cs",
+              "RelativeToolTip": "AlugaCars.Core\\Entities\\Carro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T21:16:01.297Z",
+              "WhenOpened": "2024-07-23T23:38:39.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarroService.cs",
+              "DocumentMoniker": "C:\\Code\\LocalizaAPI\\AlugaCars.Application\\Service\\CarroService.cs",
+              "RelativeDocumentMoniker": "AlugaCars.Application\\Service\\CarroService.cs",
+              "ToolTip": "C:\\Code\\LocalizaAPI\\AlugaCars.Application\\Service\\CarroService.cs",
+              "RelativeToolTip": "AlugaCars.Application\\Service\\CarroService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T23:37:11.794Z",
               "EditorCaption": ""
             }
           ]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlugaCars.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14dcf4b05f0e9b825dff81cdedbb937977a94fd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlugaCars.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlugaCars.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
