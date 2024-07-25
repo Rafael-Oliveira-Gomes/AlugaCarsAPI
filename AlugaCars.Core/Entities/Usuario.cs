@@ -1,13 +1,8 @@
-﻿namespace AlugaCars.Core.Entities
+﻿using Microsoft.AspNetCore.Identity;
+
+namespace AlugaCars.Core.Entities
 {
-    public class Usuario
+    public class Usuario : IdentityUser
     {
-        public int Id { get; set; }
-        public string Nome { get; set; }
-        public string UltimoNome { get; set; }
-        public string Email { get; set; }
-        public string Password { get; set; }
-        public string Telefone { get; set; }
-        public string Role { get; set; }
     }
 }

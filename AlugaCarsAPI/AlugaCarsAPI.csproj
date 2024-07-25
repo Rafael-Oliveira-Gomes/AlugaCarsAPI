@@ -15,10 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\AlugaCars.Application\AlugaCars.Application.csproj" />
     <ProjectReference Include="..\AlugaCars.DataAcess\AlugaCars.DataAcess.csproj" />
   </ItemGroup>
 

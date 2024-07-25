@@ -16,6 +16,12 @@ namespace AlugaCars.DataAcess.Repositories
             return await _context.Usuarios.Skip(skip).Take(take).ToListAsync();
         }
 
+        public async Task<Usuario> GetUser(string userId)
+        {
+            Usuario user = await _context.Usuarios.FindAsync(userId);
+
+            return user;
+        }
         public async Task<Usuario> ConsultarUsuarioPorID(int id)
         {
             return await _context.Usuarios.FindAsync(id);

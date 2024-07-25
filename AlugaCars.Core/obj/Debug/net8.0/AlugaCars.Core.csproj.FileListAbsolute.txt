@@ -9,3 +9,5 @@ C:\Code\LocalizaAPI\AlugaCars.Core\obj\Debug\net8.0\AlugaCars.Core.dll
 C:\Code\LocalizaAPI\AlugaCars.Core\obj\Debug\net8.0\refint\AlugaCars.Core.dll
 C:\Code\LocalizaAPI\AlugaCars.Core\obj\Debug\net8.0\AlugaCars.Core.pdb
 C:\Code\LocalizaAPI\AlugaCars.Core\obj\Debug\net8.0\ref\AlugaCars.Core.dll
+C:\Code\LocalizaAPI\AlugaCars.Core\obj\Debug\net8.0\AlugaCars.Core.csproj.AssemblyReference.cache
+C:\Code\LocalizaAPI\AlugaCars.Core\obj\Debug\net8.0\AlugaCars.Core.sourcelink.json

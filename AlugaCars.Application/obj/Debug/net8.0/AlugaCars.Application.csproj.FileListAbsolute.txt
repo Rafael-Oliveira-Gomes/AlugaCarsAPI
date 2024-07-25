@@ -9,3 +9,10 @@ C:\Code\LocalizaAPI\AlugaCars.Application\obj\Debug\net8.0\AlugaCars.Application
 C:\Code\LocalizaAPI\AlugaCars.Application\obj\Debug\net8.0\refint\AlugaCars.Application.dll
 C:\Code\LocalizaAPI\AlugaCars.Application\obj\Debug\net8.0\AlugaCars.Application.pdb
 C:\Code\LocalizaAPI\AlugaCars.Application\obj\Debug\net8.0\ref\AlugaCars.Application.dll
+C:\Code\LocalizaAPI\AlugaCars.Application\bin\Debug\net8.0\AlugaCars.Core.dll
+C:\Code\LocalizaAPI\AlugaCars.Application\bin\Debug\net8.0\AlugaCars.DataAcess.dll
+C:\Code\LocalizaAPI\AlugaCars.Application\bin\Debug\net8.0\AlugaCars.Core.pdb
+C:\Code\LocalizaAPI\AlugaCars.Application\bin\Debug\net8.0\AlugaCars.DataAcess.pdb
+C:\Code\LocalizaAPI\AlugaCars.Application\obj\Debug\net8.0\AlugaCars.Application.csproj.AssemblyReference.cache
+C:\Code\LocalizaAPI\AlugaCars.Application\obj\Debug\net8.0\AlugaCars.Application.sourcelink.json
+C:\Code\LocalizaAPI\AlugaCars.Application\obj\Debug\net8.0\AlugaCar.44054C4B.Up2Date

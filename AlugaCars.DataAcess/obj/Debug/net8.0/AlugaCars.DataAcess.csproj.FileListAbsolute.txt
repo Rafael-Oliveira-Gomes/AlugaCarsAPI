@@ -15,3 +15,4 @@ C:\Code\LocalizaAPI\AlugaCars.DataAcess\obj\Debug\net8.0\AlugaCars.DataAcess.pdb
 C:\Code\LocalizaAPI\AlugaCars.DataAcess\obj\Debug\net8.0\ref\AlugaCars.DataAcess.dll
 C:\Code\LocalizaAPI\AlugaCars.DataAcess\bin\Debug\net8.0\AlugaCars.DataAcess.runtimeconfig.json
 C:\Code\LocalizaAPI\AlugaCars.DataAcess\obj\Debug\net8.0\AlugaCars.DataAcess.genruntimeconfig.cache
+C:\Code\LocalizaAPI\AlugaCars.DataAcess\obj\Debug\net8.0\AlugaCars.DataAcess.sourcelink.json
