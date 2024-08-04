@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlugaCars.DataAcess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fb1dc55a656742db2c9882b072ae32317756d5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16d336bb4e56a34eef38caa2ffb1e47d63bb9b47")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlugaCars.DataAcess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlugaCars.DataAcess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

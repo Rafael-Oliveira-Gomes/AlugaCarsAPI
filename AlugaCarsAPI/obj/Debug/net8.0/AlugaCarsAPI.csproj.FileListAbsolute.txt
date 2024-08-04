@@ -108,3 +108,14 @@ C:\Code\LocalizaAPI\AlugaCarsAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis
 C:\Code\LocalizaAPI\AlugaCarsAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Code\LocalizaAPI\AlugaCarsAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Code\LocalizaAPI\AlugaCarsAPI\obj\Debug\net8.0\AlugaCarsAPI.sourcelink.json
+C:\Code\LocalizaAPI\AlugaCarsAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Code\LocalizaAPI\AlugaCarsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Code\LocalizaAPI\AlugaCarsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Code\LocalizaAPI\AlugaCarsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Code\LocalizaAPI\AlugaCarsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Code\LocalizaAPI\AlugaCarsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Code\LocalizaAPI\AlugaCarsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Code\LocalizaAPI\AlugaCarsAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Code\LocalizaAPI\AlugaCarsAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Code\LocalizaAPI\AlugaCarsAPI\bin\Debug\net8.0\AlugaCars.Application.dll
+C:\Code\LocalizaAPI\AlugaCarsAPI\bin\Debug\net8.0\AlugaCars.Application.pdb
