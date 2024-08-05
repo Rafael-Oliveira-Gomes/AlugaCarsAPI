@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlugaCarsAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16d336bb4e56a34eef38caa2ffb1e47d63bb9b47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df86383b1f1b11ceb48b796f46bf1d0653277d9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlugaCarsAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlugaCarsAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
